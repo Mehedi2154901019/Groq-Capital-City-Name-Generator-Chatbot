@@ -40,5 +40,5 @@ To run the app.py:
 streamlit run app.py
 ```
 
-Check assets in the repository for whole code.
+Check assets in the repository for detailed code.
 
