@@ -1,2 +1,3 @@
-# Groq-Capital-City-Generator-Chatbot
-This chatbot access the GROQ through GROQ API key, input any country name on streamlit and it will provide the capital city
+# Groq-Capital-City-Name-Generator-Chatbot
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)]([https://www.youtube.com/watch?v=<VIDEO_ID](https://www.youtube.com/watch?v=4cbWMbq2B60)>)
+
