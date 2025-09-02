@@ -6,17 +6,21 @@ This is a streamlit webApp where you can input any country name and it will show
 ```
 Streamlit->Input->Groq->Response->Streamlit->Output
 ```
----
+
 ## Get and Setup Groq API key
 Create a python file like secret_key.py. 
 Then:
+
 ```
 Go to groq.com -> Developers -> Free API key -> Create API Key -> copy key
 ```
+
 Go to your secret_key.py and type:
+
 ```
 key="gsk-.......enter your key......."
 ```
+
 I am not sharing the secret_key.py in assets for confidentiality.
 
 ## Streamlit app
