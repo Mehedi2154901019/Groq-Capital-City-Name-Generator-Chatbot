@@ -33,5 +33,12 @@ question=f"what is the capital city of {CountryName}? Give me single answer"
 ```
 
 The single answer was prompted for a good and clean capital city name response.
+
+To run the app.py:
+
+```
+streamlit run app.py
+```
+
 Check assets in the repository for whole code.
 
